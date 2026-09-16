@@ -60,4 +60,27 @@ This project demonstrates practical skills in Python, Pandas, data cleaning, dat
 ## Disclaimer
 This dataset was created for educational and portfolio purposes. It does not represent real-world AMR surveillance data and should not be used for clinical or public-health decision-making.
 
-[cleaned dataset][clean_AMR_data.csv]
+## Data Outputs
+
+- [Cleaned Dataset](clean_AMR_data.csv)
+- [AMR Resistance by Antibiotic](AMR_resistance_by_antibiotic.csv)
+- [AMR Resistance by Organism](AMR_resistance_by_organism.csv)
+- [AMR Resistance by Year](AMR_resistance_by_year.csv)
+
+  ## Results and Visualizations
+
+### AMR Resistance by Antibiotic
+
+![AMR Resistance by Antibiotic](AMR_resistance_antibiotics.png)
+
+### AMR Resistance by Organism
+
+![AMR Resistance by Organism](AMR_resistance_Organism.png)
+
+### AMR Resistance by Year
+
+![AMR Resistance by Year](AMR_resistance_year.png)
+
+### AMR Resistance with 95% Confidence Intervals
+
+![AMR Resistance with 95% Confidence Intervals](AMR_resistance_95CI.png)
