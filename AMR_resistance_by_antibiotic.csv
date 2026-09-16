@@ -1,0 +1,5 @@
+antibiotic,tested,resistant,resistance_percent,lower_ci,upper_ci
+Amoxicillin,253,78,30.83,25.46,36.77
+Ciprofloxacin,265,75,28.3,23.22,34.01
+Gentamicin,234,70,29.91,24.41,36.07
+Tetracycline,248,76,30.65,25.24,36.64
