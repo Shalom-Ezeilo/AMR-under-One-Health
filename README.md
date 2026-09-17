@@ -86,4 +86,5 @@ This dataset was created for educational and portfolio purposes. It does not rep
 ![AMR Resistance with 95% Confidence Intervals](AMR_resistance_95CI.png)
 
 ### AMR_resistance_heatmap
-![AMR_resistance_heatmap][AMR_resistance_heatmap.png].
+
+![AMR Resistance Heatmap](AMR_resistance_heatmap.png)
